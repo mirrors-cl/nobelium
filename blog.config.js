@@ -4,7 +4,7 @@ const BLOG = {
   email: 'qclweb@163.com',
   link: 'https://nobelium.vercel.app',
   description: '愿你永如昨，纯白不失色。',
-  lang: 'zh-cn', //en-US
+  lang: 'zh-CN', //en-US
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
