@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'lanblog',
-  author: 'chenglin qin',
+  title: 'blog',
+  author: 'Lin',
   email: 'qclweb@163.com',
   link: 'https://nobelium.vercel.app',
   description: '愿你永如昨，纯白不失色。',
